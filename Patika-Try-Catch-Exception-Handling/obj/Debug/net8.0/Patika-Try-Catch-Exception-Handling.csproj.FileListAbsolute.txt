@@ -1,0 +1,14 @@
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\bin\Debug\net8.0\Patika-Try-Catch-Exception-Handling.exe
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\bin\Debug\net8.0\Patika-Try-Catch-Exception-Handling.deps.json
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\bin\Debug\net8.0\Patika-Try-Catch-Exception-Handling.runtimeconfig.json
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\bin\Debug\net8.0\Patika-Try-Catch-Exception-Handling.dll
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\bin\Debug\net8.0\Patika-Try-Catch-Exception-Handling.pdb
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.AssemblyInfoInputs.cache
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.AssemblyInfo.cs
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.csproj.CoreCompileInputs.cache
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.dll
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\refint\Patika-Try-Catch-Exception-Handling.dll
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.pdb
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\Patika-Try-Catch-Exception-Handling.genruntimeconfig.cache
+C:\işler\kelimeoop\Patika-Try-Catch-Exception-Handling\Patika-Try-Catch-Exception-Handling\obj\Debug\net8.0\ref\Patika-Try-Catch-Exception-Handling.dll
